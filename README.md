@@ -12,26 +12,7 @@
   </p>
 </div>
 
-> **⚠️ DISCLAIMER:** Bu araç yalnızca eğitim amaçlıdır. Sorumluluk tamamen kullanıcıya aittir; Discord Hizmet Şartları'na (ToS) uygun şekilde sorumluluk bilinciyle kullanın.
 
----
-
-_   _
-
-| | | |___  ___ _ __ _ __   __ _ _ __ ___  ___
-| | | / |/ _ \ '| '_ \ / | '_ _ / __|
-| || __ \  / |  | | | | (| | | | | | _
-
-_/|/_||  || ||_,|| || ||__/
-
-/ | |   ___  | | _____ _ __
-| |   | ' \ / _ / | |/ / _ \ '|
-| || | | |  / (|   <  / |
-
-_|| ||_|_||____|_|
-
-
----
 
 ## 🚀 Genel Bakış
 
@@ -63,7 +44,7 @@ _|| ||_|_||____|_|
 
 1. **Repoyu klonlayın:**
    ```bash
-   git clone [https://github.com/reddoburo/UsernameChecker.git](https://github.com/reddoburo/UsernameChecker.git)
+   git clone [https://github.com/kzixc/UsernameChecker.git](https://github.com/kzixc/UsernameChecker.git)
    cd UsernameChecker
 Bağımlılıkları yükleyin:
 
